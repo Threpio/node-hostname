@@ -1,5 +1,5 @@
 
-FROM node
+FROM amd64/node
 
 WORKDIR /usr/app
 
