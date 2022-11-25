@@ -13,3 +13,11 @@ Ensured docker file container works locally.
 sorted out helm shizzle
 
 --platform linux/amd64 lol
+
+I have spent about 30 minutes pruning images and sorting out the architectural differences - there goes my chance at the CI/CD part
+ 
+
+## TO DO 
+
+Node module bundling and cleanup? I think atm it is only enforcing and placing a dev build into production
+
