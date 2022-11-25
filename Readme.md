@@ -19,5 +19,7 @@ I have spent about 30 minutes pruning images and sorting out the architectural d
 
 ## TO DO 
 
+Secure Infrastructure - aks api etc
+
 Node module bundling and cleanup? I think atm it is only enforcing and placing a dev build into production
 
