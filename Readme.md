@@ -1,6 +1,5 @@
 # Readme
 
-
 ## Process Taken so far
 
 Created Dockerfile for nodejs
@@ -11,3 +10,6 @@ Created ACR push script and code
 
 Ensured docker file container works locally.
 
+sorted out helm shizzle
+
+--platform linux/amd64 lol
