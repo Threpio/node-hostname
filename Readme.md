@@ -16,6 +16,7 @@ sorted out helm shizzle
 
 I have spent about 30 minutes pruning images and sorting out the architectural differences - there goes my chance at the CI/CD part
  
+Updated Workflow
 
 ## TO DO 
 
